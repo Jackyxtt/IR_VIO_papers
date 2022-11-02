@@ -13,3 +13,6 @@
 
 同时使用RGB相机和红外相机分别进行特征匹配，并分别赋予红外特征与RGB特征权重，计算加权后的特征匹配相似度，以剔除较差的特征匹配，从RGB与红外特征中同时提取匹配度最优的特征。相机的定位基于Bundle Adjustment算法。
 
+[Performance Evaluation of Feature Detectors and Descriptors Beyond the Visible](feature_performance_evaluation_IR.pdf)
+
+对可见光图像常用的SIFT，SURF，ORB等特征在红外图像中的特征匹配表现进行了评估。作者的评估实验是通过旋转原图像并将旋转后的图像与原图像进行特征提取与匹配。
