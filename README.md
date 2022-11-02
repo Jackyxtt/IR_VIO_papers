@@ -26,3 +26,7 @@
 
 利用CycleGAN域迁移(Domain Adaptive)特性的热图像地点识别。
 
+[Classifying Emotions in Rehabilitation Robotics Based on Facial Skin Temperature](Classifying_emotions_in_rehabilitation_robotics_based_on_facial_skin_temperature.pdf)
+
+利用面部热图像进行情感检测，被用于中风患者康复机器人。
+
