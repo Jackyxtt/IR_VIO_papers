@@ -17,6 +17,6 @@
 
 对可见光图像常用的SIFT，SURF，ORB等特征在红外图像中的特征匹配表现进行了评估。作者的评估实验是通过旋转原图像并将旋转后的图像与原图像进行特征提取与匹配。
 
-[Keyframe‐based thermal–inertial odometry](Keyframe‐based thermal–inertial odometry.pdf)
+[Keyframe‐based thermal–inertial odometry](Keyframe‐based%20thermal–inertial%20odometry.pdf)
 视觉部分完全基于热图像的视觉惯性定位。被用于在矿山内定位，目前不支持Loop Closure。
 
