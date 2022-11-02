@@ -30,3 +30,5 @@
 
 利用面部热图像进行情感检测，被用于中风患者康复机器人。
 
+[Thermal Multisensor Fusion for Collaborative Robotics](Thermal_Multisensor_Fusion_for_Collaborative_Robotics.pdf)
+搭载全景红外相机 + 一对双目红外相机的人体定位系统。被用于多机器人协同对环境中的人员进行定位。
